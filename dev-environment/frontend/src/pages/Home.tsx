@@ -36,8 +36,8 @@ function Home() {
 
   return (
     <div className="app-container">
-      <h1>Ambiente de Desarrollo</h1>
-      <p>Full-Stack con Docker</p>
+      <h1>Ventanas de Entrega</h1>
+      <p>Gestion para revision de Full-Stack con Docker</p>
 
       <div className={`status-card ${getStatusClass()}`}>
         <h2>Estado del Sistema</h2>
